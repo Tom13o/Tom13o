@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tom13o
 - 👀 I’m interested in web design and development.
-- 🌱 I’m currently learning web development with Blazor WebAssembly
+- 🌱 I’m currently learning web development with React
 - 💞️ I’m looking to collaborate on voting off the impostor
 - 📫 You can reach me by meeting me in Medical, I have scan
